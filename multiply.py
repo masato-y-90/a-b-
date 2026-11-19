@@ -4,4 +4,4 @@ def multiply(a, b):
 
 
 if __name__ == "__main__":
-    print(multiply(2026, 1119))  # 2,267,454
+    print(multiply(20, 26))  # 520
